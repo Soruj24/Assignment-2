@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    align-items: center;
+    
+}    
+.abutUs{
+    display: flex;
+    
+}
+.abutUs p{
+    margin: 5px;
+}
+.youIcon {
+margin: 5px;
+display: flex;
+background-color: ghostwhite;
+}
+
+.bannarSection{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+button{
+    background-color: rgb(0, 195, 255);
+    width: 100px;
+    height: 50px;
+    margin-top: 15px;
+    
+    color: white;
+ 
+}
+.weGeme{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+    text-align: right;
+}
+.onlineGame{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.onlineGameImg{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 15px;
+}
+.onlineGameImg img{
+    width: 200px;
+}
+.playInstantly{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.img5{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+.img6 img{
+width: 200px;
+position: absolute;
+bottom:-67px;
+right: 300px;
+}
+.playInstantly1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.img51{
+    position: relative;
+    width: 400px;
+    height: 400px;
+}
+.img61 img{
+width: 200px;
+position: absolute;
+bottom:-67px;
+right: 10px;
+}
+.careers{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    align-items: center;
+    padding: 50px;
+    background-color: rgb(166, 255, 0);
+}
+.careersImg{
+    width: 50%;
+}
+.multimediaArtist{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    align-items: center;
+}
+.multimediaArtistRight{
+    text-align: right;
+}
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    background-color: black;
+    color: wheat;
+}
+.footerlogu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footerlogu img{
+    margin-top: 15px;
+}
+.footerMenu{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.footerMenu p{
+    padding: 15px;
+}
+.footerIcon{
+    display: flex;
+    justify-content: center;
+}
+.footerIcon p{
+    padding: 15px;
+}
